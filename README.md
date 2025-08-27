@@ -166,9 +166,4 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için LICENSE dosyas
 
 **Tuel Enerji**
 - Website: https://www.tuelenerji.com
-- Email: info@tuelenerji.com
-- Phone: +90 535 922 28 94
 
----
-
-**Not**: Bu web sitesi demo amaçlı oluşturulmuştur. Production kullanımı için ek güvenlik önlemleri ve server-side validasyon eklenmesi önerilir.
